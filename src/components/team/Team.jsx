@@ -15,7 +15,7 @@ function Team() {
         <img src={User} alt="" />
       </div>
       <div className="contentBx">
-        <h3>Cole Lander <br/><span>CEO</span></h3>
+        <h3>Cole<br/><span>Co-Founder</span></h3>
       </div>
       </div>
       <ul className='sci'>
@@ -37,7 +37,7 @@ function Team() {
         <img src={User} alt="" />
       </div>
       <div className="contentBx">
-        <h3>Cole Lander <br/><span>CEO</span></h3>
+        <h3>Ethan<br/><span>Co-Founder</span></h3>
       </div>
       </div>
       <ul className='sci'>
@@ -59,7 +59,7 @@ function Team() {
         <img src={User} alt="" />
       </div>
       <div className="contentBx">
-        <h3>Cole Lander <br/><span>CEO</span></h3>
+        <h3>Luke<br/><span>Co-Founder</span></h3>
       </div>
       </div>
       <ul className='sci'>
@@ -84,7 +84,7 @@ function Team() {
         <img src={User} alt="" />
       </div>
       <div className="contentBx">
-        <h3>Cole Lander <br/><span>CEO</span></h3>
+        <h3>Andrew<br/><span>Artist/Graphic Designer</span></h3>
       </div>
       </div>
       <ul className='sci'>
@@ -106,7 +106,7 @@ function Team() {
         <img src={User} alt="" />
       </div>
       <div className="contentBx">
-        <h3>Cole Lander <br/><span>CEO</span></h3>
+        <h3>Catherine<br/><span>Frontend Developer</span></h3>
       </div>
       </div>
       <ul className='sci'>
@@ -128,7 +128,7 @@ function Team() {
         <img src={User} alt="" />
       </div>
       <div className="contentBx">
-        <h3>Cole Lander <br/><span>CEO</span></h3>
+        <h3>Kurtis aka OutKrigh<br/><span>Fashion Designer</span></h3>
       </div>
       </div>
       <ul className='sci'>
