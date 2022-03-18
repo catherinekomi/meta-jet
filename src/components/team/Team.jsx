@@ -1,6 +1,9 @@
 import React from 'react';
 import './team.css';
 import User from '../../assets/user2.png';
+import Andrew from '../../assets/andrew.jpeg';
+import Cole from '../../assets/cole.jpeg';
+import Ethan from '../../assets/ethan.jpeg';
 import { SocialIcon } from 'react-social-icons';
 
 
@@ -12,7 +15,7 @@ function Team() {
       <div className="card">
       <div className="content">
       <div className="imgBx">
-        <img src={User} alt="" />
+        <img src={Cole} alt="" />
       </div>
       <div className="contentBx">
         <h3>Cole<br/><span>Co-Founder</span></h3>
@@ -34,7 +37,7 @@ function Team() {
        <div className="card">
       <div className="content">
       <div className="imgBx">
-        <img src={User} alt="" />
+        <img src={Ethan} alt="" />
       </div>
       <div className="contentBx">
         <h3>Ethan<br/><span>Co-Founder</span></h3>
@@ -81,7 +84,7 @@ function Team() {
       <div className="card">
       <div className="content">
       <div className="imgBx">
-        <img src={User} alt="" />
+        <img src={Andrew} alt="" />
       </div>
       <div className="contentBx">
         <h3>Andrew<br/><span>Artist/Graphic Designer</span></h3>
