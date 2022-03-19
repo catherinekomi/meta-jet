@@ -8,7 +8,7 @@ function RoadMap() {
         <div class="roadcontainer">
             <ul>
                 <li>
-                    <h3>vip event giveaway</h3>
+                    <h3 class="title">vip event giveaway</h3>
                     <p>community choice sporting event givaway, with 1:1 metajet merchandise piece from our fashion designer.</p>
                     <span class="circle"></span>
                     <span class="date">20%</span>
